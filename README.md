@@ -15,7 +15,7 @@ Contributing
 
 I am by no means guaranteeing that my output files are correct.  If your output from these testcases is different from mine, please fork this project, update the .out files and pull request, explaining where my output is wrong.
 
-If you have more testcases of any kind, please feel free to fork and pull request. We'll all have better programs if some of use write good tests.
+If you have more testcases of any kind, please feel free to fork and pull request. We'll all have better programs if some of us write good tests.
 
 Additional Notes
 ----------------
