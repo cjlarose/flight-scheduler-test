@@ -200,6 +200,6 @@ No Flight Schedule Found.
 No Flight Schedule Found.
 
 Failed to find a flight schedule for 81 out of 100 customers
-Elapsed times: 5 (millsec) for planning, 22 (millisec) for scheduling
+Elapsed times: 55 (millsec) for planning, 72 (millisec) for scheduling
 Memory consumption: 1625584 bytes
-Total CPU time consumed by the thread: 108 (millsec)
+Total CPU time consumed by the thread: 158 (millsec)

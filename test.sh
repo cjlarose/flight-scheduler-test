@@ -20,5 +20,5 @@
 MY_PATH="`dirname \"$0\"`"              # relative
 MY_PATH="`( cd \"$MY_PATH\" && pwd )`"  # absolutized and normalized
 
-java -cp $MY_PATH/../../bin MainAir $MY_PATH/../hawaiian/Hawaiian-airports.txt $MY_PATH/Hawaiian-flights-disconnected.txt $MY_PATH/../hawaiian/Hawaiian-customers100.txt > $MY_PATH/disconnected01.out
-java -cp $MY_PATH/../../bin MainAir $MY_PATH/../alaska/Alaska-airports.txt $MY_PATH/Alaska-flights-disconnected.txt $MY_PATH/../alaska/Alaska-customers2000.txt > $MY_PATH/disconnected02.out
+java -cp $MY_PATH/../../bin MainAir $MY_PATH/../hawaiian/Hawaiian-airports.txt $MY_PATH/Hawaiian-flights-disconnected.txt $MY_PATH/../hawaiian/Hawaiian-customers100.txt > $MY_PATH/tickets01.out
+java -cp $MY_PATH/../../bin MainAir $MY_PATH/../alaska/Alaska-airports.txt $MY_PATH/Alaska-flights-disconnected.txt $MY_PATH/../alaska/Alaska-customers2000.txt > $MY_PATH/tickets02.out
