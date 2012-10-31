@@ -7,8 +7,8 @@ The test cases in the project, Hawaiian-flights-disconnected.txt and Alaska-flig
 
 The output files disconnected01.out and disconnected02.out are produced in the following way:
 
-    java MainAir hawaiian-testcases/Hawaiian-airports.txt disconnected-testcases/Hawaiian-flights-disconnected.txt hawaiian-testcases/Hawaiian-customers100.txt > disconnected-testcases/disconnected01.out
-    java MainAir alaska-testcases/Alaska-airports.txt disconnected-testcases/Alaska-flights-disconnected.txt alaska-testcases/Alaska-customers2000.txt > disconnected-testcases/disconnected02.out
+    java MainAir hawaiian-testcases/Hawaiian-airports.txt additional-testcases/Hawaiian-flights-disconnected.txt hawaiian-testcases/Hawaiian-customers100.txt > additional-testcases/tickets01.out
+    java MainAir alaska-testcases/Alaska-airports.txt additional-testcases/Alaska-flights-disconnected.txt alaska-testcases/Alaska-customers2000.txt > additional-testcases/tickets02.out
 
 Contributing
 ------------
