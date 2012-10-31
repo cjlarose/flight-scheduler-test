@@ -5,7 +5,7 @@ This project is a collection of test cases for the flight scheduling assignment.
 
 The test cases in the project, Hawaiian-flights-disconnected.txt and Alaska-flights-disconnected.txt are proper subsets of Hawaiian-flights.txt and Alaska-flights.txt, respectively.  They each guarantee that the resulting graph has at least two disconnected components.  Furthermore, one airport in one component is guaranteed to be a transmitter (having only outgoing flights), and another airport in the opposite compontent is guaranteed to be a receiver (having only incoming flights).
 
-The output files disconnected01.out and disconnected02.out are produced in the following way:
+The output files tickets01.out and tickets02.out are produced in the following way:
 
     java MainAir hawaiian-testcases/Hawaiian-airports.txt additional-testcases/Hawaiian-flights-disconnected.txt hawaiian-testcases/Hawaiian-customers100.txt > additional-testcases/tickets01.out
     java MainAir alaska-testcases/Alaska-airports.txt additional-testcases/Alaska-flights-disconnected.txt alaska-testcases/Alaska-customers2000.txt > additional-testcases/tickets02.out
