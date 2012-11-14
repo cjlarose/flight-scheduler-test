@@ -135,7 +135,7 @@ No Flight Schedule Found.
 >> Source:LNY Destination:HNL Start_Time:1542
 [LNY->HNL:1810->1840]
 >> Source:OGG Destination:KOA Start_Time:2152
-[OGG->KOA:2405->2436]
+[OGG->KOA:0005->0036]
 >> Source:HNL Destination:KOA Start_Time:0218
 No Flight Schedule Found.
 >> Source:LNY Destination:LIH Start_Time:1812
@@ -145,7 +145,7 @@ No Flight Schedule Found.
 >> Source:KOA Destination:ITO Start_Time:0742
 No Flight Schedule Found.
 >> Source:OGG Destination:KOA Start_Time:2316
-[OGG->KOA:2405->2436]
+[OGG->KOA:0005->0036]
 >> Source:LNY Destination:OGG Start_Time:0918
 No Flight Schedule Found.
 >> Source:OGG Destination:JHM Start_Time:2318
@@ -200,6 +200,6 @@ No Flight Schedule Found.
 No Flight Schedule Found.
 
 Failed to find a flight schedule for 81 out of 100 customers
-Elapsed times: 55 (millsec) for planning, 72 (millisec) for scheduling
-Memory consumption: 1625584 bytes
-Total CPU time consumed by the thread: 158 (millsec)
+Elapsed times: 2 (millsec) for planning, 22 (millisec) for scheduling
+Memory consumption: 1604760 bytes
+Total CPU time consumed by the thread: 117 (millsec)

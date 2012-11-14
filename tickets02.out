@@ -3,7 +3,7 @@ No Flight Schedule Found.
 >> Source:OTZ Destination:ANC Start_Time:0149
 No Flight Schedule Found.
 >> Source:MSY Destination:MIA Start_Time:1638
-No Flight Schedule Found.
+[MSY->LAX:1700->1902][LAX->MIA:2045->0450]
 >> Source:YYC Destination:LBB Start_Time:1724
 No Flight Schedule Found.
 >> Source:OMA Destination:FAT Start_Time:0127
@@ -41,7 +41,7 @@ No Flight Schedule Found.
 >> Source:MZT Destination:OAK Start_Time:0451
 No Flight Schedule Found.
 >> Source:DTW Destination:SDP Start_Time:1422
-No Flight Schedule Found.
+[DTW->ORD:1440->1455][ORD->ANC:1725->2100][ANC->SDP:1000->1215]
 >> Source:MLI Destination:MEM Start_Time:1048
 No Flight Schedule Found.
 >> Source:CID Destination:STG Start_Time:2011
@@ -59,7 +59,7 @@ No Flight Schedule Found.
 >> Source:LGA Destination:STS Start_Time:2014
 No Flight Schedule Found.
 >> Source:OAK Destination:PBI Start_Time:2048
-No Flight Schedule Found.
+[OAK->LAX:0630->0758][LAX->ATL:1020->1739][ATL->PBI:1835->2030]
 >> Source:BET Destination:MFR Start_Time:0752
 No Flight Schedule Found.
 >> Source:YKM Destination:ZIH Start_Time:1753
@@ -117,7 +117,7 @@ No Flight Schedule Found.
 >> Source:GST Destination:CVG Start_Time:0307
 No Flight Schedule Found.
 >> Source:PHL Destination:CDV Start_Time:1608
-No Flight Schedule Found.
+[PHL->ORD:1630->1750][ORD->LAX:1930->2150][LAX->ANC:0800->1224][ANC->CDV:1530->1620]
 >> Source:DLH Destination:FAR Start_Time:2350
 No Flight Schedule Found.
 >> Source:STG Destination:WRG Start_Time:0232
@@ -153,7 +153,7 @@ No Flight Schedule Found.
 >> Source:PSG Destination:YEG Start_Time:0230
 [PSG->JNU:1117->1158][JNU->SEA:1315->1640][SEA->YEG:2012->2303]
 >> Source:LAP Destination:TPA Start_Time:2143
-No Flight Schedule Found.
+[LAP->LAX:1433->1623][LAX->DFW:1745->2240][DFW->TPA:0805->1120]
 >> Source:DSM Destination:ENA Start_Time:1041
 No Flight Schedule Found.
 >> Source:YEG Destination:PNS Start_Time:0517
@@ -189,7 +189,7 @@ No Flight Schedule Found.
 >> Source:MCO Destination:CRW Start_Time:2220
 No Flight Schedule Found.
 >> Source:SNP Destination:HSV Start_Time:0340
-No Flight Schedule Found.
+[SNP->ANC:1515->1815][ANC->ORD:2215->0715][ORD->HSV:1055->1225]
 >> Source:ELP Destination:ALW Start_Time:1803
 No Flight Schedule Found.
 >> Source:YVR Destination:YUL Start_Time:1842
@@ -205,11 +205,11 @@ No Flight Schedule Found.
 >> Source:LAP Destination:ALW Start_Time:1110
 No Flight Schedule Found.
 >> Source:SMF Destination:LIT Start_Time:2113
-No Flight Schedule Found.
+[SMF->LAX:0600->0735][LAX->DFW:0855->1405][DFW->LIT:1535->1640]
 >> Source:PDX Destination:MEM Start_Time:0031
 [PDX->MSP:0644->1202][MSP->MEM:1310->1512]
 >> Source:SJD Destination:YYZ Start_Time:0142
-No Flight Schedule Found.
+[SJD->LAX:1332->1450][LAX->ORD:1615->2210][ORD->YYZ:0830->1055]
 >> Source:BUR Destination:BNA Start_Time:0754
 No Flight Schedule Found.
 >> Source:YWG Destination:PVR Start_Time:1538
@@ -221,7 +221,7 @@ No Flight Schedule Found.
 >> Source:AMA Destination:ABQ Start_Time:2325
 No Flight Schedule Found.
 >> Source:SIT Destination:YVR Start_Time:1551
-No Flight Schedule Found.
+[SIT->ANC:1820->2127][ANC->LAX:0045->0647][LAX->YVR:0935->1226]
 >> Source:KTN Destination:MSP Start_Time:1317
 No Flight Schedule Found.
 >> Source:SAV Destination:PDX Start_Time:0001
@@ -243,7 +243,7 @@ No Flight Schedule Found.
 >> Source:BHM Destination:GST Start_Time:1201
 No Flight Schedule Found.
 >> Source:UNK Destination:BDL Start_Time:1411
-No Flight Schedule Found.
+[UNK->ANC:1510->1650][ANC->ORD:2215->0715][ORD->BDL:1015->1315]
 >> Source:BUR Destination:BOI Start_Time:1909
 No Flight Schedule Found.
 >> Source:AMA Destination:OGG Start_Time:0504
@@ -251,7 +251,7 @@ No Flight Schedule Found.
 >> Source:CLE Destination:OME Start_Time:1717
 No Flight Schedule Found.
 >> Source:MIA Destination:SIT Start_Time:1204
-No Flight Schedule Found.
+[MIA->ORD:1240->1450][ORD->ANC:1725->2100][ANC->SIT:0755->1103]
 >> Source:XNA Destination:YOW Start_Time:0110
 No Flight Schedule Found.
 >> Source:STL Destination:GPT Start_Time:0020
@@ -289,7 +289,7 @@ No Flight Schedule Found.
 >> Source:KOA Destination:GTF Start_Time:1149
 No Flight Schedule Found.
 >> Source:PSP Destination:YAK Start_Time:1153
-No Flight Schedule Found.
+[PSP->SMF:1326->1506][SMF->LAX:1745->1910][LAX->ANC:2055->0134][ANC->YAK:1530->1749]
 >> Source:DLG Destination:JAN Start_Time:2222
 No Flight Schedule Found.
 >> Source:ADK Destination:SUN Start_Time:0635
@@ -389,7 +389,7 @@ No Flight Schedule Found.
 >> Source:BIL Destination:HNL Start_Time:1908
 No Flight Schedule Found.
 >> Source:JAN Destination:ROC Start_Time:1833
-No Flight Schedule Found.
+[JAN->ATL:1833->2057][ATL->BNA:2200->2209][BNA->ORD:0610->0750][ORD->ROC:1350->1625]
 >> Source:SCC Destination:LTO Start_Time:0516
 No Flight Schedule Found.
 >> Source:MSO Destination:HOM Start_Time:1737
@@ -435,7 +435,7 @@ No Flight Schedule Found.
 >> Source:PSG Destination:RAP Start_Time:0513
 [PSG->JNU:1117->1158][JNU->SEA:1315->1640][SEA->MSP:0050->0603][MSP->RAP:0905->0948]
 >> Source:SMF Destination:CRW Start_Time:0918
-No Flight Schedule Found.
+[SMF->LAX:1000->1130][LAX->ORD:1330->1935][ORD->CRW:1355->1620]
 >> Source:ADQ Destination:HLN Start_Time:0628
 No Flight Schedule Found.
 >> Source:PHX Destination:SEA Start_Time:2308
@@ -463,7 +463,7 @@ No Flight Schedule Found.
 >> Source:TUL Destination:LEX Start_Time:0239
 No Flight Schedule Found.
 >> Source:BHM Destination:RIC Start_Time:1157
-No Flight Schedule Found.
+[BHM->ATL:1305->1512][ATL->LAX:1615->1810][LAX->SFO:1945->2100][SFO->ORD:2340->0540][ORD->RIC:0950->1245]
 >> Source:HNL Destination:ZIH Start_Time:0557
 No Flight Schedule Found.
 >> Source:EWR Destination:BTR Start_Time:2240
@@ -497,7 +497,7 @@ No Flight Schedule Found.
 >> Source:SFO Destination:ABQ Start_Time:2108
 [SFO->DFW:0020->0530][DFW->LAX:0620->0725][LAX->ABQ:0915->1215]
 >> Source:YAK Destination:PSP Start_Time:2048
-No Flight Schedule Found.
+[YAK->ANC:1153->1410][ANC->LAX:1705->2318][LAX->SMF:0755->0920][SMF->PSP:1115->1253]
 >> Source:AVP Destination:CID Start_Time:2007
 No Flight Schedule Found.
 >> Source:CDB Destination:MMH Start_Time:0235
@@ -539,11 +539,11 @@ No Flight Schedule Found.
 >> Source:SYR Destination:GFK Start_Time:2143
 No Flight Schedule Found.
 >> Source:HNL Destination:PHL Start_Time:0240
-No Flight Schedule Found.
+[HNL->LAX:0710->1545][LAX->ORD:1710->2310][ORD->PHL:0830->1125]
 >> Source:CHS Destination:HLN Start_Time:1723
 No Flight Schedule Found.
 >> Source:CVG Destination:ADQ Start_Time:0715
-No Flight Schedule Found.
+[CVG->LAX:0920->1052][LAX->ANC:2055->0134][ANC->ADQ:0555->0700]
 >> Source:HNL Destination:SMF Start_Time:0459
 [HNL->LAX:0710->1545][LAX->SMF:2030->2200]
 >> Source:BLI Destination:GDL Start_Time:1120
@@ -555,11 +555,11 @@ No Flight Schedule Found.
 >> Source:ADK Destination:YYJ Start_Time:1001
 No Flight Schedule Found.
 >> Source:ROC Destination:SIT Start_Time:0936
-No Flight Schedule Found.
+[ROC->ORD:1040->1130][ORD->ANC:1725->2100][ANC->SIT:0755->1103]
 >> Source:ANC Destination:PUW Start_Time:1809
 No Flight Schedule Found.
 >> Source:SAN Destination:BDL Start_Time:0957
-No Flight Schedule Found.
+[SAN->ORD:1125->1725][ORD->BDL:2200->0055]
 >> Source:SIT Destination:EUG Start_Time:1823
 No Flight Schedule Found.
 >> Source:SGF Destination:LWS Start_Time:0644
@@ -571,7 +571,7 @@ No Flight Schedule Found.
 >> Source:DUT Destination:IND Start_Time:2305
 No Flight Schedule Found.
 >> Source:ANC Destination:MLI Start_Time:1322
-No Flight Schedule Found.
+[ANC->ORD:2215->0715][ORD->MLI:1435->1520]
 >> Source:BHM Destination:MSP Start_Time:1620
 No Flight Schedule Found.
 >> Source:GSO Destination:ROC Start_Time:2215
@@ -583,15 +583,15 @@ No Flight Schedule Found.
 >> Source:PNS Destination:SBA Start_Time:1643
 No Flight Schedule Found.
 >> Source:MRY Destination:CLT Start_Time:0044
-No Flight Schedule Found.
+[MRY->LAX:0610->0720][LAX->ATL:0900->1625][ATL->CLT:1705->1826]
 >> Source:SIT Destination:ABQ Start_Time:0015
 [SIT->ANC:0600->0913][ANC->LAX:1705->2318][LAX->ABQ:0915->1215]
 >> Source:FCA Destination:JAN Start_Time:2131
 No Flight Schedule Found.
 >> Source:SIT Destination:MIA Start_Time:2335
-No Flight Schedule Found.
+[SIT->ANC:0600->0913][ANC->ORD:2215->0715][ORD->MIA:0850->1255]
 >> Source:LAX Destination:RIC Start_Time:0319
-No Flight Schedule Found.
+[LAX->ORD:0600->1200][ORD->RIC:1615->1910]
 >> Source:LAN Destination:SGF Start_Time:1747
 No Flight Schedule Found.
 >> Source:ZLO Destination:BIS Start_Time:1758
@@ -609,7 +609,7 @@ No Flight Schedule Found.
 >> Source:WRG Destination:GSO Start_Time:0356
 [WRG->ANC:1011->1425][ANC->LAX:1705->2318][LAX->ATL:0110->0824][ATL->GSO:0925->1044]
 >> Source:CLT Destination:ADQ Start_Time:0915
-No Flight Schedule Found.
+[CLT->ORD:1005->1115][ORD->ANC:1725->2100][ANC->ADQ:0555->0700]
 >> Source:FAR Destination:EAT Start_Time:1016
 No Flight Schedule Found.
 >> Source:MLI Destination:MRY Start_Time:1339
@@ -625,7 +625,7 @@ No Flight Schedule Found.
 >> Source:YYJ Destination:SMF Start_Time:1151
 No Flight Schedule Found.
 >> Source:MLI Destination:SJD Start_Time:2331
-No Flight Schedule Found.
+[MLI->ORD:0700->0755][ORD->LAX:1010->1230][LAX->SJD:0915->1236]
 >> Source:DAY Destination:SNA Start_Time:1406
 No Flight Schedule Found.
 >> Source:OGG Destination:SAT Start_Time:2226
@@ -647,15 +647,15 @@ No Flight Schedule Found.
 >> Source:MCI Destination:STL Start_Time:2118
 [MCI->ORD:0700->0825][ORD->STL:1055->1155]
 >> Source:PSP Destination:KTN Start_Time:0931
-No Flight Schedule Found.
+[PSP->SMF:1326->1506][SMF->LAX:1745->1910][LAX->ANC:2055->0134][ANC->KTN:0755->1237]
 >> Source:HNL Destination:MLI Start_Time:0251
-No Flight Schedule Found.
+[HNL->LAX:0710->1545][LAX->ORD:1710->2310][ORD->MLI:0815->0900]
 >> Source:STG Destination:ANI Start_Time:1704
 No Flight Schedule Found.
 >> Source:SMF Destination:OTZ Start_Time:1238
 No Flight Schedule Found.
 >> Source:OAK Destination:PIT Start_Time:1604
-No Flight Schedule Found.
+[OAK->LAX:1635->1755][LAX->SFO:1945->2100][SFO->ORD:2340->0540][ORD->PIT:0850->1110]
 >> Source:LIH Destination:STS Start_Time:2005
 [LIH->SEA:1130->2003][SEA->STS:0900->1209]
 >> Source:PDX Destination:YLW Start_Time:2158
@@ -663,9 +663,9 @@ No Flight Schedule Found.
 >> Source:PHL Destination:MSN Start_Time:0755
 No Flight Schedule Found.
 >> Source:SAV Destination:KOA Start_Time:1515
-No Flight Schedule Found.
+[SAV->ATL:1540->1654][ATL->LAX:1745->1930][LAX->KOA:1359->1636]
 >> Source:SJD Destination:MLI Start_Time:0206
-No Flight Schedule Found.
+[SJD->LAX:1332->1450][LAX->ORD:1615->2210][ORD->MLI:0815->0900]
 >> Source:CVG Destination:SAN Start_Time:0812
 [CVG->LAX:0920->1052][LAX->SAN:1330->1425]
 >> Source:LWS Destination:YVR Start_Time:1914
@@ -685,7 +685,7 @@ No Flight Schedule Found.
 >> Source:MZT Destination:DCA Start_Time:1826
 No Flight Schedule Found.
 >> Source:ADQ Destination:WRG Start_Time:1942
-No Flight Schedule Found.
+[ADQ->ANC:2045->2150][ANC->WRG:1135->1552]
 >> Source:HNL Destination:PSG Start_Time:1257
 No Flight Schedule Found.
 >> Source:CLT Destination:MDT Start_Time:1015
@@ -701,7 +701,7 @@ No Flight Schedule Found.
 >> Source:ALW Destination:JAX Start_Time:1815
 No Flight Schedule Found.
 >> Source:GPT Destination:RIC Start_Time:1620
-No Flight Schedule Found.
+[GPT->DFW:1745->1930][DFW->LAX:2020->2130][LAX->ORD:2355->0550][ORD->RIC:0950->1245]
 >> Source:MAF Destination:IND Start_Time:1253
 No Flight Schedule Found.
 >> Source:PBI Destination:LGB Start_Time:1701
@@ -731,7 +731,7 @@ No Flight Schedule Found.
 >> Source:ADK Destination:IAD Start_Time:2217
 No Flight Schedule Found.
 >> Source:HSV Destination:SJD Start_Time:1135
-No Flight Schedule Found.
+[HSV->ATL:1221->1420][ATL->LAX:1505->1647][LAX->SJD:0915->1236]
 >> Source:YYZ Destination:OKC Start_Time:0913
 [YYZ->ORD:0920->1000][ORD->OKC:1250->1455]
 >> Source:OGG Destination:GTF Start_Time:2321
@@ -749,7 +749,7 @@ No Flight Schedule Found.
 >> Source:PUW Destination:MSN Start_Time:1230
 No Flight Schedule Found.
 >> Source:MRY Destination:GSO Start_Time:1507
-No Flight Schedule Found.
+[MRY->LAX:1750->1905][LAX->ATL:2245->0602][ATL->GSO:0810->0925]
 >> Source:ROC Destination:BLI Start_Time:0010
 No Flight Schedule Found.
 >> Source:ADQ Destination:DLG Start_Time:1731
@@ -783,7 +783,7 @@ No Flight Schedule Found.
 >> Source:RDU Destination:MAF Start_Time:1728
 No Flight Schedule Found.
 >> Source:MEX Destination:GSO Start_Time:2349
-No Flight Schedule Found.
+[MEX->LAX:0700->0852][LAX->ATL:1020->1739][ATL->GSO:1910->2034]
 >> Source:DAY Destination:DCA Start_Time:0500
 No Flight Schedule Found.
 >> Source:SUN Destination:MSN Start_Time:0701
@@ -797,7 +797,7 @@ No Flight Schedule Found.
 >> Source:AVP Destination:GRB Start_Time:0642
 No Flight Schedule Found.
 >> Source:GRK Destination:AUS Start_Time:1326
-No Flight Schedule Found.
+[GRK->DFW:1330->1430][DFW->LAX:1525->1640][LAX->AUS:1830->2325]
 >> Source:PDX Destination:FSD Start_Time:0600
 No Flight Schedule Found.
 >> Source:HSV Destination:STG Start_Time:0250
@@ -873,7 +873,7 @@ No Flight Schedule Found.
 >> Source:AVP Destination:WRG Start_Time:2147
 No Flight Schedule Found.
 >> Source:PIT Destination:KOA Start_Time:0740
-No Flight Schedule Found.
+[PIT->ORD:0935->1005][ORD->LAX:1155->1410][LAX->KOA:1710->1945]
 >> Source:CDB Destination:RDU Start_Time:2020
 No Flight Schedule Found.
 >> Source:BTR Destination:SMF Start_Time:1839
@@ -905,7 +905,7 @@ No Flight Schedule Found.
 >> Source:TPA Destination:YYC Start_Time:1803
 No Flight Schedule Found.
 >> Source:BNA Destination:MEX Start_Time:2345
-No Flight Schedule Found.
+[BNA->ATL:0530->0738][ATL->LAX:0824->1015][LAX->MEX:2355->0530]
 >> Source:VDZ Destination:RAP Start_Time:1632
 No Flight Schedule Found.
 >> Source:MEM Destination:JAN Start_Time:1537
@@ -915,7 +915,7 @@ No Flight Schedule Found.
 >> Source:ATL Destination:BWI Start_Time:1406
 No Flight Schedule Found.
 >> Source:ANC Destination:WRG Start_Time:1514
-No Flight Schedule Found.
+[ANC->WRG:1135->1552]
 >> Source:BHM Destination:GEG Start_Time:1721
 No Flight Schedule Found.
 >> Source:EWR Destination:SGF Start_Time:1649
@@ -993,13 +993,13 @@ No Flight Schedule Found.
 >> Source:CID Destination:YKM Start_Time:0959
 No Flight Schedule Found.
 >> Source:YAK Destination:RIC Start_Time:2108
-No Flight Schedule Found.
+[YAK->ANC:1153->1410][ANC->ORD:2215->0715][ORD->RIC:0950->1245]
 >> Source:MEX Destination:XNA Start_Time:1525
 No Flight Schedule Found.
 >> Source:PVR Destination:GDL Start_Time:1542
 No Flight Schedule Found.
 >> Source:HNL Destination:SUN Start_Time:1853
-No Flight Schedule Found.
+[HNL->LAX:2045->0500][LAX->SUN:1340->1708]
 >> Source:AMA Destination:KSM Start_Time:1815
 No Flight Schedule Found.
 >> Source:FAT Destination:BWI Start_Time:0513
@@ -1057,7 +1057,7 @@ No Flight Schedule Found.
 >> Source:ROC Destination:YVR Start_Time:1848
 [ROC->ORD:0600->0650][ORD->LAX:0835->1045][LAX->YVR:1452->1730]
 >> Source:ZLO Destination:MCI Start_Time:0016
-No Flight Schedule Found.
+[ZLO->LAX:1633->1747][LAX->SFO:1945->2100][SFO->ORD:2340->0540][ORD->MCI:0930->1055]
 >> Source:ATL Destination:BLI Start_Time:1659
 No Flight Schedule Found.
 >> Source:DSM Destination:BZN Start_Time:1324
@@ -1087,7 +1087,7 @@ No Flight Schedule Found.
 >> Source:AUS Destination:RAP Start_Time:0236
 No Flight Schedule Found.
 >> Source:OKC Destination:DTW Start_Time:1228
-No Flight Schedule Found.
+[OKC->ORD:1710->1920][ORD->DTW:2130->2340]
 >> Source:STG Destination:DSM Start_Time:0745
 No Flight Schedule Found.
 >> Source:STS Destination:AUS Start_Time:0441
@@ -1117,7 +1117,7 @@ No Flight Schedule Found.
 >> Source:OMA Destination:MBS Start_Time:2236
 No Flight Schedule Found.
 >> Source:TPA Destination:PBI Start_Time:2010
-No Flight Schedule Found.
+[TPA->ORD:0810->1000][ORD->CLT:1200->1445][CLT->ATL:1703->1830][ATL->PBI:2045->2236]
 >> Source:ABE Destination:LBB Start_Time:2121
 No Flight Schedule Found.
 >> Source:TUL Destination:CID Start_Time:1405
@@ -1139,7 +1139,7 @@ No Flight Schedule Found.
 >> Source:CVG Destination:HOM Start_Time:1833
 No Flight Schedule Found.
 >> Source:OME Destination:LEX Start_Time:1203
-No Flight Schedule Found.
+[OME->ANC:1316->1614][ANC->ORD:2215->0715][ORD->LEX:1530->1740]
 >> Source:CHS Destination:ANI Start_Time:1703
 No Flight Schedule Found.
 >> Source:SFO Destination:TYS Start_Time:2350
@@ -1193,7 +1193,7 @@ No Flight Schedule Found.
 >> Source:JFK Destination:PSG Start_Time:1806
 No Flight Schedule Found.
 >> Source:MSY Destination:PVR Start_Time:1346
-No Flight Schedule Found.
+[MSY->LAX:1700->1902][LAX->PVR:1020->1518]
 >> Source:ORD Destination:OME Start_Time:2306
 [ORD->ANC:0940->1327][ANC->OME:1710->1844]
 >> Source:BHM Destination:SBA Start_Time:0251
@@ -1203,7 +1203,7 @@ No Flight Schedule Found.
 >> Source:CHS Destination:OKC Start_Time:2212
 No Flight Schedule Found.
 >> Source:YYZ Destination:WRG Start_Time:1315
-No Flight Schedule Found.
+[YYZ->ORD:1335->1420][ORD->ANC:1725->2100][ANC->WRG:1135->1552]
 >> Source:SNA Destination:YEG Start_Time:0804
 [SNA->SEA:1010->1257][SEA->YEG:1440->1735]
 >> Source:YUL Destination:DAY Start_Time:1447
@@ -1231,7 +1231,7 @@ No Flight Schedule Found.
 >> Source:HLN Destination:OGG Start_Time:2106
 [HLN->SEA:0620->0803][SEA->OGG:0835->1135]
 >> Source:OAK Destination:ATL Start_Time:1615
-No Flight Schedule Found.
+[OAK->LAX:1635->1755][LAX->ATL:2245->0602]
 >> Source:ENA Destination:IAD Start_Time:1356
 No Flight Schedule Found.
 >> Source:BET Destination:OMA Start_Time:1538
@@ -1281,7 +1281,7 @@ No Flight Schedule Found.
 >> Source:CLT Destination:ADK Start_Time:1434
 No Flight Schedule Found.
 >> Source:YAK Destination:KOA Start_Time:0926
-No Flight Schedule Found.
+[YAK->ANC:1153->1410][ANC->LAX:1705->2318][LAX->KOA:1359->1636]
 >> Source:ZLO Destination:CMH Start_Time:1912
 No Flight Schedule Found.
 >> Source:TUL Destination:YYZ Start_Time:0041
@@ -1311,7 +1311,7 @@ No Flight Schedule Found.
 >> Source:OME Destination:MKE Start_Time:0243
 No Flight Schedule Found.
 >> Source:JAN Destination:DFW Start_Time:1204
-No Flight Schedule Found.
+[JAN->ATL:1246->1510][ATL->LAX:1615->1810][LAX->DFW:0020->0515]
 >> Source:ELP Destination:EUG Start_Time:1438
 No Flight Schedule Found.
 >> Source:SAN Destination:BUR Start_Time:0837
@@ -1319,7 +1319,7 @@ No Flight Schedule Found.
 >> Source:ZLO Destination:GRR Start_Time:0046
 No Flight Schedule Found.
 >> Source:MEX Destination:SDP Start_Time:2236
-No Flight Schedule Found.
+[MEX->LAX:0700->0852][LAX->ANC:2055->0134][ANC->SDP:1000->1215]
 >> Source:BOS Destination:ORD Start_Time:0954
 [BOS->ORD:1030->1210]
 >> Source:SDF Destination:YOW Start_Time:1617
@@ -1335,13 +1335,13 @@ No Flight Schedule Found.
 >> Source:MEX Destination:GTF Start_Time:1101
 No Flight Schedule Found.
 >> Source:TUS Destination:BOS Start_Time:1625
-No Flight Schedule Found.
+[TUS->LAX:1630->1805][LAX->BOS:2145->0610]
 >> Source:BHM Destination:LAN Start_Time:0642
 No Flight Schedule Found.
 >> Source:MSN Destination:BUR Start_Time:2339
 No Flight Schedule Found.
 >> Source:UNK Destination:MLI Start_Time:0924
-No Flight Schedule Found.
+[UNK->ANC:1410->1550][ANC->ORD:2215->0715][ORD->MLI:1435->1520]
 >> Source:LAS Destination:KOA Start_Time:1818
 No Flight Schedule Found.
 >> Source:ONT Destination:GST Start_Time:1204
@@ -1357,7 +1357,7 @@ No Flight Schedule Found.
 >> Source:ABQ Destination:BLI Start_Time:0955
 No Flight Schedule Found.
 >> Source:PHL Destination:SUN Start_Time:1846
-No Flight Schedule Found.
+[PHL->ORD:0630->0740][ORD->LAX:1010->1230][LAX->SUN:1340->1708]
 >> Source:MCG Destination:DSM Start_Time:1151
 No Flight Schedule Found.
 >> Source:BET Destination:MFR Start_Time:0706
@@ -1403,7 +1403,7 @@ No Flight Schedule Found.
 >> Source:BOI Destination:BWI Start_Time:0740
 No Flight Schedule Found.
 >> Source:HNL Destination:YOW Start_Time:0529
-No Flight Schedule Found.
+[HNL->LAX:0710->1545][LAX->ORD:1710->2310][ORD->YOW:0950->1240]
 >> Source:YEG Destination:PDX Start_Time:0749
 [YEG->SEA:1320->1423][SEA->PDX:1600->1648]
 >> Source:DUT Destination:FCA Start_Time:0454
@@ -1445,7 +1445,7 @@ No Flight Schedule Found.
 >> Source:HOM Destination:LIT Start_Time:1007
 No Flight Schedule Found.
 >> Source:RIC Destination:UNK Start_Time:1240
-No Flight Schedule Found.
+[RIC->ORD:1330->1440][ORD->ANC:1725->2100][ANC->UNK:1200->1340]
 >> Source:LGB Destination:ANC Start_Time:0804
 No Flight Schedule Found.
 >> Source:VDZ Destination:SYR Start_Time:1108
@@ -1507,13 +1507,13 @@ No Flight Schedule Found.
 >> Source:DLH Destination:MMH Start_Time:2324
 No Flight Schedule Found.
 >> Source:ADQ Destination:SUN Start_Time:1851
-No Flight Schedule Found.
+[ADQ->ANC:1915->2020][ANC->LAX:0045->0647][LAX->SUN:1340->1708]
 >> Source:WRG Destination:STS Start_Time:1208
 No Flight Schedule Found.
 >> Source:AUS Destination:PDX Start_Time:2257
 No Flight Schedule Found.
 >> Source:PIT Destination:BHM Start_Time:0746
-No Flight Schedule Found.
+[PIT->ORD:0935->1005][ORD->CLT:1200->1445][CLT->ATL:1703->1830][ATL->BHM:1930->1931]
 >> Source:YOW Destination:OMA Start_Time:1022
 No Flight Schedule Found.
 >> Source:LAS Destination:LBB Start_Time:2038
@@ -1535,7 +1535,7 @@ No Flight Schedule Found.
 >> Source:PNS Destination:YWG Start_Time:0616
 No Flight Schedule Found.
 >> Source:YVR Destination:MLI Start_Time:2013
-No Flight Schedule Found.
+[YVR->LAX:0620->0915][LAX->ORD:1125->1725][ORD->MLI:1920->2010]
 >> Source:MLI Destination:GFK Start_Time:2215
 No Flight Schedule Found.
 >> Source:JNU Destination:FLL Start_Time:0037
@@ -1543,7 +1543,7 @@ No Flight Schedule Found.
 >> Source:GSO Destination:BZN Start_Time:1334
 No Flight Schedule Found.
 >> Source:SCC Destination:JAN Start_Time:1628
-No Flight Schedule Found.
+[SCC->ANC:1710->1852][ANC->ORD:2215->0715][ORD->BNA:1000->1125][BNA->ATL:1300->1512][ATL->JAN:1730->1748]
 >> Source:ELP Destination:SUN Start_Time:2047
 No Flight Schedule Found.
 >> Source:CLE Destination:CDV Start_Time:1231
@@ -1553,13 +1553,13 @@ No Flight Schedule Found.
 >> Source:SAV Destination:MBS Start_Time:2052
 No Flight Schedule Found.
 >> Source:OAK Destination:SNP Start_Time:1534
-No Flight Schedule Found.
+[OAK->LAX:1635->1755][LAX->ANC:2055->0134][ANC->SNP:1145->1445]
 >> Source:PSC Destination:MEX Start_Time:2122
 No Flight Schedule Found.
 >> Source:YWG Destination:STL Start_Time:1717
 No Flight Schedule Found.
 >> Source:KOA Destination:ANC Start_Time:0354
-No Flight Schedule Found.
+[KOA->LAX:2055->0508][LAX->ANC:0800->1224]
 >> Source:DLH Destination:GRB Start_Time:0211
 No Flight Schedule Found.
 >> Source:SNA Destination:ADQ Start_Time:0643
@@ -1567,7 +1567,7 @@ No Flight Schedule Found.
 >> Source:RNO Destination:YEG Start_Time:2047
 [RNO->SEA:0705->0912][SEA->YEG:1440->1735]
 >> Source:SMF Destination:ATL Start_Time:2347
-No Flight Schedule Found.
+[SMF->LAX:0600->0735][LAX->ATL:0900->1625]
 >> Source:ZLO Destination:SYR Start_Time:1516
 No Flight Schedule Found.
 >> Source:SJC Destination:HOM Start_Time:0143
@@ -1619,13 +1619,13 @@ No Flight Schedule Found.
 >> Source:PNS Destination:WRG Start_Time:1121
 No Flight Schedule Found.
 >> Source:TPA Destination:PVR Start_Time:1524
-No Flight Schedule Found.
+[TPA->DFW:1615->1755][DFW->LAX:1900->2010][LAX->PVR:1020->1518]
 >> Source:CHS Destination:GPT Start_Time:0909
 No Flight Schedule Found.
 >> Source:RDM Destination:CID Start_Time:2249
 No Flight Schedule Found.
 >> Source:ATL Destination:LEX Start_Time:0945
-No Flight Schedule Found.
+[ATL->BNA:1505->1515][BNA->ORD:1655->1835][ORD->LEX:2140->2350]
 >> Source:BET Destination:DAY Start_Time:0704
 No Flight Schedule Found.
 >> Source:CLE Destination:MKE Start_Time:0116
@@ -1667,7 +1667,7 @@ No Flight Schedule Found.
 >> Source:RAP Destination:WRG Start_Time:0341
 No Flight Schedule Found.
 >> Source:SJD Destination:GPT Start_Time:1003
-No Flight Schedule Found.
+[SJD->LAX:1332->1450][LAX->DFW:1610->2115][DFW->GPT:0855->1025]
 >> Source:DEN Destination:AVP Start_Time:1556
 No Flight Schedule Found.
 >> Source:PUW Destination:OMA Start_Time:1320
@@ -1715,17 +1715,17 @@ No Flight Schedule Found.
 >> Source:CHS Destination:BIS Start_Time:1107
 No Flight Schedule Found.
 >> Source:YVR Destination:KTN Start_Time:1645
-No Flight Schedule Found.
+[YVR->LAX:1830->2118][LAX->ANC:0800->1224][ANC->KTN:0755->1237]
 >> Source:EWR Destination:LIT Start_Time:1912
 [EWR->ORD:0600->0720][ORD->LIT:1055->1240]
 >> Source:YLW Destination:LGA Start_Time:1255
 No Flight Schedule Found.
 >> Source:YVR Destination:UNK Start_Time:1314
-No Flight Schedule Found.
+[YVR->LAX:1325->1614][LAX->ANC:2055->0134][ANC->UNK:1200->1340]
 >> Source:ATW Destination:STS Start_Time:1740
 [ATW->MSP:0710->0823][MSP->PDX:1145->1322][PDX->STS:1023->1209]
 >> Source:SCC Destination:PHL Start_Time:2237
-No Flight Schedule Found.
+[SCC->ANC:0941->1306][ANC->ORD:2215->0715][ORD->PHL:1125->1415]
 >> Source:LIT Destination:OTZ Start_Time:0846
 No Flight Schedule Found.
 >> Source:ATW Destination:WRG Start_Time:2004
@@ -1749,7 +1749,7 @@ No Flight Schedule Found.
 >> Source:GTF Destination:JAN Start_Time:2108
 No Flight Schedule Found.
 >> Source:GPT Destination:ZLO Start_Time:1235
-No Flight Schedule Found.
+[GPT->DFW:1335->1515][DFW->LAX:1610->1725][LAX->ZLO:1025->1536]
 >> Source:LGB Destination:DLH Start_Time:0837
 No Flight Schedule Found.
 >> Source:CID Destination:GDL Start_Time:2030
@@ -1785,13 +1785,13 @@ No Flight Schedule Found.
 >> Source:RDU Destination:MAF Start_Time:0337
 No Flight Schedule Found.
 >> Source:SAN Destination:RIC Start_Time:1332
-No Flight Schedule Found.
+[SAN->ORD:1515->2105][ORD->RIC:0950->1245]
 >> Source:AKN Destination:ANC Start_Time:1532
 No Flight Schedule Found.
 >> Source:PHL Destination:YKM Start_Time:1901
 No Flight Schedule Found.
 >> Source:MSY Destination:SDP Start_Time:0154
-No Flight Schedule Found.
+[MSY->ORD:0720->0940][ORD->ANC:1725->2100][ANC->SDP:1000->1215]
 >> Source:ATW Destination:LIT Start_Time:1016
 No Flight Schedule Found.
 >> Source:DAY Destination:OMA Start_Time:1543
@@ -1805,9 +1805,9 @@ No Flight Schedule Found.
 >> Source:SDF Destination:CHS Start_Time:1006
 No Flight Schedule Found.
 >> Source:ROC Destination:MEX Start_Time:1051
-No Flight Schedule Found.
+[ROC->ORD:1230->1320][ORD->LAX:1510->1725][LAX->MEX:2355->0530]
 >> Source:SIT Destination:CID Start_Time:0853
-No Flight Schedule Found.
+[SIT->ANC:1820->2127][ANC->ORD:2215->0715][ORD->CID:1355->1455]
 >> Source:EUG Destination:CLE Start_Time:1706
 [EUG->SEA:1905->2009][SEA->MSP:0050->0603][MSP->CLE:1005->1300]
 >> Source:JAN Destination:DLH Start_Time:1912
@@ -1843,7 +1843,7 @@ No Flight Schedule Found.
 >> Source:FAI Destination:OKC Start_Time:0416
 No Flight Schedule Found.
 >> Source:SFO Destination:SNP Start_Time:0324
-No Flight Schedule Found.
+[SFO->DFW:0600->1125][DFW->ANC:1535->1915][ANC->SNP:1145->1445]
 >> Source:SUN Destination:IAD Start_Time:0147
 No Flight Schedule Found.
 >> Source:CLT Destination:BET Start_Time:0936
@@ -1863,7 +1863,7 @@ No Flight Schedule Found.
 >> Source:BRW Destination:GRB Start_Time:0058
 No Flight Schedule Found.
 >> Source:AUS Destination:MCI Start_Time:1044
-No Flight Schedule Found.
+[AUS->LAX:1240->1350][LAX->ORD:1525->2125][ORD->MCI:0650->0815]
 >> Source:AUS Destination:MEX Start_Time:1944
 [AUS->LAX:0740->0845][LAX->MEX:1035->1608]
 >> Source:YKM Destination:BUF Start_Time:1850
@@ -1873,7 +1873,7 @@ No Flight Schedule Found.
 >> Source:PDX Destination:LAN Start_Time:0812
 [PDX->MSP:0840->1401][MSP->LAN:1005->1237]
 >> Source:MDT Destination:OAK Start_Time:0032
-No Flight Schedule Found.
+[MDT->ORD:0750->0900][ORD->LAX:1155->1410][LAX->OAK:1825->1945]
 >> Source:AMA Destination:EAT Start_Time:2215
 No Flight Schedule Found.
 >> Source:SAT Destination:GDL Start_Time:0123
@@ -1889,7 +1889,7 @@ No Flight Schedule Found.
 >> Source:AUS Destination:PIT Start_Time:1627
 [AUS->LAX:1935->2040][LAX->ORD:2355->0550][ORD->PIT:0850->1110]
 >> Source:SNP Destination:PBI Start_Time:1728
-No Flight Schedule Found.
+[SNP->ANC:1515->1815][ANC->ORD:2215->0715][ORD->PBI:1000->1350]
 >> Source:HLN Destination:EAT Start_Time:1300
 No Flight Schedule Found.
 >> Source:OMA Destination:YYZ Start_Time:0704
@@ -1931,7 +1931,7 @@ No Flight Schedule Found.
 >> Source:AUS Destination:JAX Start_Time:0212
 No Flight Schedule Found.
 >> Source:MRY Destination:YVR Start_Time:0135
-No Flight Schedule Found.
+[MRY->LAX:0610->0720][LAX->YVR:0935->1226]
 >> Source:LWS Destination:SYR Start_Time:0323
 No Flight Schedule Found.
 >> Source:BUR Destination:CMH Start_Time:2112
@@ -1941,7 +1941,7 @@ No Flight Schedule Found.
 >> Source:GRK Destination:DUT Start_Time:0103
 No Flight Schedule Found.
 >> Source:CID Destination:SNP Start_Time:0133
-No Flight Schedule Found.
+[CID->ORD:0825->0925][ORD->ANC:1725->2100][ANC->SNP:1145->1445]
 >> Source:MSO Destination:ADK Start_Time:2328
 No Flight Schedule Found.
 >> Source:SAT Destination:VDZ Start_Time:1746
@@ -1991,7 +1991,7 @@ No Flight Schedule Found.
 >> Source:IAD Destination:RNO Start_Time:1234
 [IAD->SLC:0740->1019][SLC->SEA:1355->1505][SEA->RNO:1915->2110]
 >> Source:CDV Destination:IAH Start_Time:0117
-No Flight Schedule Found.
+[CDV->ANC:0900->0950][ANC->ORD:2215->0715][ORD->IAH:1500->1740]
 >> Source:BIL Destination:MMH Start_Time:2332
 No Flight Schedule Found.
 >> Source:ADK Destination:PVR Start_Time:1356
@@ -2001,9 +2001,9 @@ No Flight Schedule Found.
 >> Source:JAN Destination:GDL Start_Time:1841
 No Flight Schedule Found.
 >> Source:BHM Destination:SNP Start_Time:0952
-No Flight Schedule Found.
+[BHM->ATL:1040->1241][ATL->LAX:1340->1524][LAX->ANC:2055->0134][ANC->SNP:1145->1445]
 >> Source:GPT Destination:ZLO Start_Time:0912
-No Flight Schedule Found.
+[GPT->DFW:1100->1240][DFW->LAX:1335->1450][LAX->ZLO:1025->1536]
 >> Source:SEA Destination:AMA Start_Time:1612
 No Flight Schedule Found.
 >> Source:SJC Destination:LIT Start_Time:0102
@@ -2063,7 +2063,7 @@ No Flight Schedule Found.
 >> Source:MBS Destination:TPA Start_Time:2133
 No Flight Schedule Found.
 >> Source:KTN Destination:ZLO Start_Time:2105
-No Flight Schedule Found.
+[KTN->ANC:1649->2127][ANC->LAX:0045->0647][LAX->ZLO:1025->1536]
 >> Source:LAN Destination:MCG Start_Time:0427
 No Flight Schedule Found.
 >> Source:YEG Destination:YVR Start_Time:0101
@@ -2071,9 +2071,9 @@ No Flight Schedule Found.
 >> Source:BTR Destination:LIH Start_Time:0536
 No Flight Schedule Found.
 >> Source:LAX Destination:GSO Start_Time:1048
-No Flight Schedule Found.
+[LAX->ATL:1145->1908][ATL->GSO:2107->2227]
 >> Source:CLT Destination:ADQ Start_Time:0545
-No Flight Schedule Found.
+[CLT->ORD:0740->0855][ORD->ANC:1725->2100][ANC->ADQ:0555->0700]
 >> Source:YAK Destination:LAS Start_Time:0059
 No Flight Schedule Found.
 >> Source:TUS Destination:HLN Start_Time:0707
@@ -2103,7 +2103,7 @@ No Flight Schedule Found.
 >> Source:BDL Destination:MIA Start_Time:1224
 [BDL->ORD:1350->1520][ORD->MIA:1905->2300]
 >> Source:SNP Destination:KTN Start_Time:1808
-No Flight Schedule Found.
+[SNP->ANC:1515->1815][ANC->KTN:0755->1237]
 >> Source:PHL Destination:SEA Start_Time:1405
 No Flight Schedule Found.
 >> Source:FLL Destination:HNL Start_Time:2118
@@ -2131,7 +2131,7 @@ No Flight Schedule Found.
 >> Source:OAK Destination:PNS Start_Time:1222
 No Flight Schedule Found.
 >> Source:UNK Destination:OAK Start_Time:1443
-No Flight Schedule Found.
+[UNK->ANC:1510->1650][ANC->LAX:0045->0647][LAX->OAK:1110->1233]
 >> Source:CDV Destination:ONT Start_Time:0912
 No Flight Schedule Found.
 >> Source:DUT Destination:HSV Start_Time:0943
@@ -2143,7 +2143,7 @@ No Flight Schedule Found.
 >> Source:JAN Destination:OGG Start_Time:2328
 No Flight Schedule Found.
 >> Source:MRY Destination:BDL Start_Time:2118
-No Flight Schedule Found.
+[MRY->LAX:0610->0720][LAX->ORD:0930->1525][ORD->BDL:1705->2005]
 >> Source:BHM Destination:OAK Start_Time:2059
 [BHM->ATL:0530->0727][ATL->LAX:0824->1015][LAX->OAK:1455->1618]
 >> Source:HNL Destination:BRW Start_Time:1936
@@ -2177,7 +2177,7 @@ No Flight Schedule Found.
 >> Source:YYZ Destination:MSO Start_Time:0915
 No Flight Schedule Found.
 >> Source:CDV Destination:CID Start_Time:0341
-No Flight Schedule Found.
+[CDV->ANC:0900->0950][ANC->ORD:2215->0715][ORD->CID:1355->1455]
 >> Source:DFW Destination:RDU Start_Time:0129
 No Flight Schedule Found.
 >> Source:PSG Destination:TUL Start_Time:0703
@@ -2235,7 +2235,7 @@ No Flight Schedule Found.
 >> Source:ABQ Destination:DUT Start_Time:1006
 No Flight Schedule Found.
 >> Source:SMF Destination:BDL Start_Time:1314
-No Flight Schedule Found.
+[SMF->LAX:1315->1440][LAX->ORD:1615->2210][ORD->BDL:0700->0955]
 >> Source:AMA Destination:SMF Start_Time:0339
 No Flight Schedule Found.
 >> Source:PHX Destination:JAN Start_Time:1610
@@ -2257,7 +2257,7 @@ No Flight Schedule Found.
 >> Source:GSO Destination:BIL Start_Time:0459
 No Flight Schedule Found.
 >> Source:SAN Destination:MDT Start_Time:0223
-No Flight Schedule Found.
+[SAN->ORD:0620->1220][ORD->MDT:1345->1625]
 >> Source:MCO Destination:TPA Start_Time:1316
 No Flight Schedule Found.
 >> Source:MMH Destination:ELP Start_Time:1258
@@ -2271,7 +2271,7 @@ No Flight Schedule Found.
 >> Source:DFW Destination:IND Start_Time:1247
 No Flight Schedule Found.
 >> Source:BTR Destination:CRW Start_Time:1808
-No Flight Schedule Found.
+[BTR->DFW:1905->2030][DFW->OKC:2240->2330][OKC->ORD:0620->0825][ORD->CRW:1355->1620]
 >> Source:LTO Destination:JAX Start_Time:0445
 No Flight Schedule Found.
 >> Source:PDX Destination:PUW Start_Time:1743
@@ -2291,7 +2291,7 @@ No Flight Schedule Found.
 >> Source:LAP Destination:HOM Start_Time:0324
 No Flight Schedule Found.
 >> Source:LIT Destination:LAP Start_Time:0016
-No Flight Schedule Found.
+[LIT->DFW:0635->0750][DFW->LAX:0850->1000][LAX->LAP:1005->1348]
 >> Source:CRW Destination:MCO Start_Time:1348
 No Flight Schedule Found.
 >> Source:LIT Destination:DSM Start_Time:0849
@@ -2387,7 +2387,7 @@ No Flight Schedule Found.
 >> Source:JFK Destination:ADK Start_Time:0949
 No Flight Schedule Found.
 >> Source:OAK Destination:SDP Start_Time:0643
-No Flight Schedule Found.
+[OAK->LAX:0915->1043][LAX->ANC:2055->0134][ANC->SDP:1000->1215]
 >> Source:OAK Destination:HLN Start_Time:1726
 No Flight Schedule Found.
 >> Source:ABQ Destination:GSO Start_Time:1444
@@ -2407,17 +2407,17 @@ No Flight Schedule Found.
 >> Source:SNA Destination:BDL Start_Time:2001
 No Flight Schedule Found.
 >> Source:MLI Destination:SJD Start_Time:1613
-No Flight Schedule Found.
+[MLI->ORD:1845->1940][ORD->LAX:2140->2355][LAX->SJD:0915->1236]
 >> Source:MMH Destination:RIC Start_Time:0652
 No Flight Schedule Found.
 >> Source:GSO Destination:PSP Start_Time:1546
-No Flight Schedule Found.
+[GSO->ATL:1658->1828][ATL->LAX:1920->2113][LAX->SMF:0755->0920][SMF->PSP:1115->1253]
 >> Source:MIA Destination:YVR Start_Time:0038
 [MIA->LAX:0840->1105][LAX->YVR:1452->1730]
 >> Source:ABQ Destination:LAN Start_Time:2116
 No Flight Schedule Found.
 >> Source:FAR Destination:SNP Start_Time:0947
-No Flight Schedule Found.
+[FAR->ORD:1150->1335][ORD->ANC:1725->2100][ANC->SNP:1145->1445]
 >> Source:GTF Destination:PSP Start_Time:1523
 No Flight Schedule Found.
 >> Source:MBS Destination:OMA Start_Time:1709
@@ -2445,11 +2445,11 @@ No Flight Schedule Found.
 >> Source:MKE Destination:STL Start_Time:0650
 No Flight Schedule Found.
 >> Source:OKC Destination:SNP Start_Time:0950
-No Flight Schedule Found.
+[OKC->DFW:1035->1135][DFW->ANC:1535->1915][ANC->SNP:1145->1445]
 >> Source:CVG Destination:YLW Start_Time:0629
 No Flight Schedule Found.
 >> Source:OME Destination:CLT Start_Time:0223
-No Flight Schedule Found.
+[OME->ANC:0955->1124][ANC->ORD:2215->0715][ORD->CLT:0950->1240]
 >> Source:CLT Destination:SGF Start_Time:0411
 No Flight Schedule Found.
 >> Source:BET Destination:GDL Start_Time:2221
@@ -2489,7 +2489,7 @@ No Flight Schedule Found.
 >> Source:MZT Destination:MFR Start_Time:1755
 No Flight Schedule Found.
 >> Source:CID Destination:LAP Start_Time:0950
-No Flight Schedule Found.
+[CID->ORD:1015->1115][ORD->LAX:1305->1520][LAX->LAP:1005->1348]
 >> Source:LTO Destination:RDU Start_Time:0343
 No Flight Schedule Found.
 >> Source:JAX Destination:TUL Start_Time:0514
@@ -2555,11 +2555,11 @@ No Flight Schedule Found.
 >> Source:BET Destination:TUS Start_Time:2301
 No Flight Schedule Found.
 >> Source:OME Destination:PVR Start_Time:2333
-No Flight Schedule Found.
+[OME->ANC:0955->1124][ANC->LAX:1705->2318][LAX->PVR:1020->1518]
 >> Source:MLI Destination:SUN Start_Time:0832
-No Flight Schedule Found.
+[MLI->ORD:0930->1020][ORD->LAX:1155->1410][LAX->SUN:1340->1708]
 >> Source:PVR Destination:ZLO Start_Time:1046
-No Flight Schedule Found.
+[PVR->LAX:1614->1709][LAX->ZLO:1025->1536]
 >> Source:BOI Destination:TYS Start_Time:2216
 [BOI->PDX:0630->0655][PDX->MSP:0840->1401][MSP->TYS:1510->1816]
 >> Source:SDF Destination:ADQ Start_Time:1354
@@ -2573,13 +2573,13 @@ No Flight Schedule Found.
 >> Source:PVR Destination:ONT Start_Time:1457
 No Flight Schedule Found.
 >> Source:ATL Destination:PIT Start_Time:1124
-No Flight Schedule Found.
+[ATL->BNA:1505->1515][BNA->ORD:1655->1835][ORD->PIT:2140->2359]
 >> Source:YAK Destination:CLE Start_Time:1315
 No Flight Schedule Found.
 >> Source:CMH Destination:RSW Start_Time:1724
 No Flight Schedule Found.
 >> Source:TUS Destination:CVG Start_Time:2005
-No Flight Schedule Found.
+[TUS->LAX:0600->0730][LAX->CVG:1105->1814]
 >> Source:DUT Destination:MLI Start_Time:0236
 No Flight Schedule Found.
 >> Source:FLL Destination:MCI Start_Time:1714
@@ -2601,7 +2601,7 @@ No Flight Schedule Found.
 >> Source:PSG Destination:SCC Start_Time:0208
 No Flight Schedule Found.
 >> Source:HSV Destination:SIT Start_Time:1923
-No Flight Schedule Found.
+[HSV->ORD:0720->0925][ORD->ANC:1725->2100][ANC->SIT:0755->1103]
 >> Source:LIT Destination:STG Start_Time:2348
 No Flight Schedule Found.
 >> Source:SEA Destination:BUR Start_Time:0829
@@ -2683,7 +2683,7 @@ No Flight Schedule Found.
 >> Source:SIT Destination:FAI Start_Time:2337
 No Flight Schedule Found.
 >> Source:SJD Destination:ADQ Start_Time:1823
-No Flight Schedule Found.
+[SJD->LAX:1332->1450][LAX->ANC:2055->0134][ANC->ADQ:0555->0700]
 >> Source:GTF Destination:FLL Start_Time:0118
 No Flight Schedule Found.
 >> Source:MAF Destination:MCG Start_Time:0407
@@ -2691,7 +2691,7 @@ No Flight Schedule Found.
 >> Source:BDL Destination:CLT Start_Time:0301
 [BDL->ORD:0720->0855][ORD->CLT:1200->1445]
 >> Source:CRW Destination:LAP Start_Time:0004
-No Flight Schedule Found.
+[CRW->ORD:0805->0845][ORD->LAX:1010->1230][LAX->LAP:1005->1348]
 >> Source:LTO Destination:ANI Start_Time:1413
 No Flight Schedule Found.
 >> Source:DLH Destination:MDT Start_Time:1722
@@ -2739,7 +2739,7 @@ No Flight Schedule Found.
 >> Source:IAH Destination:FSD Start_Time:0941
 [IAH->ORD:1115->1345][ORD->FSD:1525->1700]
 >> Source:PVR Destination:JAN Start_Time:0420
-No Flight Schedule Found.
+[PVR->LAX:1614->1709][LAX->ATL:2245->0602][ATL->JAN:0815->0838]
 >> Source:BOI Destination:ZLO Start_Time:2351
 No Flight Schedule Found.
 >> Source:FCA Destination:MBS Start_Time:0635
@@ -2749,7 +2749,7 @@ No Flight Schedule Found.
 >> Source:TPA Destination:YYZ Start_Time:0135
 [TPA->ORD:0810->1000][ORD->YYZ:1305->1540]
 >> Source:OAK Destination:FAR Start_Time:1525
-No Flight Schedule Found.
+[OAK->LAX:1635->1755][LAX->SFO:1945->2100][SFO->ORD:2340->0540][ORD->FAR:0910->1055]
 >> Source:BDL Destination:DLG Start_Time:0730
 No Flight Schedule Found.
 >> Source:ALW Destination:CID Start_Time:0452
@@ -2773,7 +2773,7 @@ No Flight Schedule Found.
 >> Source:CLT Destination:LAX Start_Time:1319
 [CLT->ATL:1400->1532][ATL->LAX:1615->1810]
 >> Source:MEX Destination:WRG Start_Time:0502
-No Flight Schedule Found.
+[MEX->LAX:0700->0852][LAX->ANC:2055->0134][ANC->WRG:1135->1552]
 >> Source:GPT Destination:YWG Start_Time:1440
 No Flight Schedule Found.
 >> Source:LWS Destination:SBA Start_Time:0346
@@ -2835,7 +2835,7 @@ No Flight Schedule Found.
 >> Source:SAV Destination:MCG Start_Time:1929
 No Flight Schedule Found.
 >> Source:CVG Destination:SUN Start_Time:1858
-No Flight Schedule Found.
+[CVG->LAX:2035->2215][LAX->SUN:1340->1708]
 >> Source:JNU Destination:MDT Start_Time:0835
 No Flight Schedule Found.
 >> Source:PSP Destination:YVR Start_Time:0445
@@ -2847,7 +2847,7 @@ No Flight Schedule Found.
 >> Source:ATW Destination:YYZ Start_Time:1909
 No Flight Schedule Found.
 >> Source:LAP Destination:GRK Start_Time:1236
-No Flight Schedule Found.
+[LAP->LAX:1433->1623][LAX->DFW:1745->2240][DFW->GRK:0625->0720]
 >> Source:MZT Destination:CHS Start_Time:1246
 No Flight Schedule Found.
 >> Source:MSO Destination:BZN Start_Time:1518
@@ -2859,7 +2859,7 @@ No Flight Schedule Found.
 >> Source:MKE Destination:SCC Start_Time:1538
 No Flight Schedule Found.
 >> Source:MLI Destination:MEX Start_Time:1952
-No Flight Schedule Found.
+[MLI->ORD:0700->0755][ORD->LAX:1010->1230][LAX->MEX:2355->0530]
 >> Source:ELP Destination:DAY Start_Time:0020
 No Flight Schedule Found.
 >> Source:LWS Destination:LTO Start_Time:2137
@@ -2881,7 +2881,7 @@ No Flight Schedule Found.
 >> Source:MKE Destination:STG Start_Time:0842
 No Flight Schedule Found.
 >> Source:MIA Destination:SCC Start_Time:1636
-No Flight Schedule Found.
+[MIA->LAX:1800->2025][LAX->ANC:0800->1224][ANC->SCC:1440->1624]
 >> Source:ADQ Destination:MEM Start_Time:0416
 No Flight Schedule Found.
 >> Source:JNU Destination:LEX Start_Time:1507
@@ -2893,7 +2893,7 @@ No Flight Schedule Found.
 >> Source:ONT Destination:STL Start_Time:1212
 No Flight Schedule Found.
 >> Source:SDP Destination:HSV Start_Time:2331
-No Flight Schedule Found.
+[SDP->ANC:1245->1615][ANC->ORD:2215->0715][ORD->HSV:1055->1225]
 >> Source:PNS Destination:BUF Start_Time:0947
 No Flight Schedule Found.
 >> Source:YWG Destination:MCI Start_Time:1042
@@ -2927,7 +2927,7 @@ No Flight Schedule Found.
 >> Source:ORD Destination:OMA Start_Time:2039
 No Flight Schedule Found.
 >> Source:PSP Destination:HSV Start_Time:0443
-No Flight Schedule Found.
+[PSP->SFO:0700->0830][SFO->ORD:1055->1705][ORD->HSV:1920->2055]
 >> Source:RIC Destination:STG Start_Time:1219
 No Flight Schedule Found.
 >> Source:FAT Destination:SFO Start_Time:1749
@@ -2935,9 +2935,9 @@ No Flight Schedule Found.
 >> Source:AVP Destination:LAP Start_Time:1118
 No Flight Schedule Found.
 >> Source:CRW Destination:ADQ Start_Time:0739
-No Flight Schedule Found.
+[CRW->ORD:0805->0845][ORD->ANC:1725->2100][ANC->ADQ:0555->0700]
 >> Source:BOS Destination:CVG Start_Time:1103
-No Flight Schedule Found.
+[BOS->ORD:1200->1340][ORD->LAX:1510->1725][LAX->CVG:2314->0630]
 >> Source:MSP Destination:ANC Start_Time:0642
 No Flight Schedule Found.
 >> Source:YWG Destination:EWR Start_Time:0903
@@ -2947,9 +2947,9 @@ No Flight Schedule Found.
 >> Source:IAD Destination:HLN Start_Time:1949
 [IAD->SLC:0740->1019][SLC->SEA:1355->1505][SEA->HLN:2030->2358]
 >> Source:ANC Destination:BDL Start_Time:1925
-No Flight Schedule Found.
+[ANC->ORD:2215->0715][ORD->BDL:1015->1315]
 >> Source:MDT Destination:GSO Start_Time:1053
-No Flight Schedule Found.
+[MDT->ORD:1255->1355][ORD->LAX:1640->1900][LAX->ATL:2245->0602][ATL->GSO:0810->0925]
 >> Source:SAV Destination:CLE Start_Time:0244
 No Flight Schedule Found.
 >> Source:LAX Destination:GEG Start_Time:2329
@@ -2991,7 +2991,7 @@ No Flight Schedule Found.
 >> Source:YWG Destination:CDV Start_Time:2300
 No Flight Schedule Found.
 >> Source:ORD Destination:KTN Start_Time:0121
-No Flight Schedule Found.
+[ORD->ANC:0940->1327][ANC->KTN:0755->1237]
 >> Source:JAX Destination:BHM Start_Time:1351
 No Flight Schedule Found.
 >> Source:ABE Destination:VDZ Start_Time:1015
@@ -3029,7 +3029,7 @@ No Flight Schedule Found.
 >> Source:TYS Destination:CLT Start_Time:0939
 No Flight Schedule Found.
 >> Source:YVR Destination:SDP Start_Time:0951
-No Flight Schedule Found.
+[YVR->LAX:1325->1614][LAX->ANC:2055->0134][ANC->SDP:1000->1215]
 >> Source:EWR Destination:ATW Start_Time:1529
 No Flight Schedule Found.
 >> Source:OMA Destination:ZIH Start_Time:2343
@@ -3051,7 +3051,7 @@ No Flight Schedule Found.
 >> Source:GRR Destination:PSC Start_Time:1355
 No Flight Schedule Found.
 >> Source:MRY Destination:STL Start_Time:2053
-No Flight Schedule Found.
+[MRY->LAX:0610->0720][LAX->STL:1215->1745]
 >> Source:PHX Destination:BLI Start_Time:0813
 [PHX->SEA:1110->1405][SEA->BLI:1715->1755]
 >> Source:FAI Destination:VDZ Start_Time:1204
@@ -3079,9 +3079,9 @@ No Flight Schedule Found.
 >> Source:YWG Destination:LIH Start_Time:0309
 [YWG->MSP:0630->0801][MSP->SEA:0920->1058][SEA->SJC:1247->1457][SJC->LIH:0800->1035]
 >> Source:SJD Destination:CLT Start_Time:2218
-No Flight Schedule Found.
+[SJD->LAX:1332->1450][LAX->ATL:1645->0002][ATL->CLT:0728->0839]
 >> Source:MSY Destination:LAP Start_Time:2310
-No Flight Schedule Found.
+[MSY->LAX:0715->0915][LAX->LAP:1005->1348]
 >> Source:JNU Destination:SMF Start_Time:1911
 No Flight Schedule Found.
 >> Source:SNP Destination:BWI Start_Time:1731
@@ -3133,7 +3133,7 @@ No Flight Schedule Found.
 >> Source:BOS Destination:ADK Start_Time:2154
 No Flight Schedule Found.
 >> Source:WRG Destination:FSD Start_Time:0621
-No Flight Schedule Found.
+[WRG->ANC:1011->1425][ANC->ORD:2215->0715][ORD->FSD:1525->1700]
 >> Source:DLG Destination:DTW Start_Time:0012
 No Flight Schedule Found.
 >> Source:ENA Destination:BLI Start_Time:0606
@@ -3213,7 +3213,7 @@ No Flight Schedule Found.
 >> Source:MZT Destination:BOS Start_Time:0809
 No Flight Schedule Found.
 >> Source:KOA Destination:PBI Start_Time:0725
-No Flight Schedule Found.
+[KOA->LAX:2055->0508][LAX->ATL:0755->1520][ATL->PBI:1631->1825]
 >> Source:FSD Destination:LIT Start_Time:0332
 [FSD->ORD:0610->0755][ORD->LIT:1055->1240]
 >> Source:GSO Destination:DLG Start_Time:0526
@@ -3231,7 +3231,7 @@ No Flight Schedule Found.
 >> Source:FAI Destination:MAF Start_Time:0939
 No Flight Schedule Found.
 >> Source:ZLO Destination:LAP Start_Time:0344
-No Flight Schedule Found.
+[ZLO->LAX:1633->1747][LAX->LAP:1005->1348]
 >> Source:MSN Destination:DTW Start_Time:0422
 No Flight Schedule Found.
 >> Source:BTR Destination:SAT Start_Time:0611
@@ -3279,7 +3279,7 @@ No Flight Schedule Found.
 >> Source:DUT Destination:LIT Start_Time:1146
 No Flight Schedule Found.
 >> Source:ZLO Destination:CDV Start_Time:1702
-No Flight Schedule Found.
+[ZLO->LAX:1633->1747][LAX->ANC:2055->0134][ANC->CDV:0750->0840]
 >> Source:LAX Destination:FLL Start_Time:1324
 No Flight Schedule Found.
 >> Source:SMF Destination:AKN Start_Time:1119
@@ -3401,7 +3401,7 @@ No Flight Schedule Found.
 >> Source:DLG Destination:CLE Start_Time:1523
 No Flight Schedule Found.
 >> Source:SUN Destination:MLI Start_Time:1238
-No Flight Schedule Found.
+[SUN->LAX:1130->1302][LAX->ORD:1505->2105][ORD->MLI:0815->0900]
 >> Source:GSO Destination:ADK Start_Time:1949
 No Flight Schedule Found.
 >> Source:FAT Destination:MBS Start_Time:0949
@@ -3413,7 +3413,7 @@ No Flight Schedule Found.
 >> Source:LIT Destination:MBS Start_Time:2038
 No Flight Schedule Found.
 >> Source:KOA Destination:PBI Start_Time:0252
-No Flight Schedule Found.
+[KOA->LAX:2055->0508][LAX->ATL:0755->1520][ATL->PBI:1631->1825]
 >> Source:BZN Destination:BWI Start_Time:0904
 No Flight Schedule Found.
 >> Source:GPT Destination:PDX Start_Time:1657
@@ -3461,7 +3461,7 @@ No Flight Schedule Found.
 >> Source:FAR Destination:ABQ Start_Time:0157
 [FAR->ORD:0600->0745][ORD->LAX:1010->1230][LAX->ABQ:1605->1905]
 >> Source:SFO Destination:FSD Start_Time:0816
-No Flight Schedule Found.
+[SFO->ORD:0905->1505][ORD->FSD:2120->2250]
 >> Source:FAR Destination:GST Start_Time:0205
 No Flight Schedule Found.
 >> Source:MFR Destination:SMF Start_Time:1004
@@ -3485,7 +3485,7 @@ No Flight Schedule Found.
 >> Source:MCO Destination:YYJ Start_Time:1410
 [MCO->SEA:1820->2122][SEA->YYJ:2300->2341]
 >> Source:LAP Destination:ROC Start_Time:1514
-No Flight Schedule Found.
+[LAP->LAX:1433->1623][LAX->SFO:1830->1953][SFO->ORD:2340->0540][ORD->ROC:0730->1000]
 >> Source:RNO Destination:CLE Start_Time:1238
 [RNO->SEA:1730->1936][SEA->MSP:0050->0603][MSP->CLE:1005->1300]
 >> Source:LWS Destination:YOW Start_Time:2156
@@ -3499,7 +3499,7 @@ No Flight Schedule Found.
 >> Source:TUS Destination:MCG Start_Time:0227
 No Flight Schedule Found.
 >> Source:IAH Destination:PVR Start_Time:1454
-No Flight Schedule Found.
+[IAH->ORD:1550->1830][ORD->LAX:2015->2240][LAX->PVR:1020->1518]
 >> Source:LIT Destination:BTR Start_Time:2319
 [LIT->DFW:0635->0750][DFW->BTR:1350->1510]
 >> Source:SEA Destination:LGB Start_Time:0428
@@ -3521,11 +3521,11 @@ No Flight Schedule Found.
 >> Source:DAY Destination:BDL Start_Time:1418
 No Flight Schedule Found.
 >> Source:PSP Destination:WRG Start_Time:0947
-No Flight Schedule Found.
+[PSP->SMF:1326->1506][SMF->LAX:1745->1910][LAX->ANC:2055->0134][ANC->WRG:1135->1552]
 >> Source:PIT Destination:FCA Start_Time:1102
 No Flight Schedule Found.
 >> Source:TUS Destination:JFK Start_Time:1147
-No Flight Schedule Found.
+[TUS->LAX:1630->1805][LAX->JFK:2105->0520]
 >> Source:YYZ Destination:SMF Start_Time:0530
 [YYZ->ORD:0615->0655][ORD->LAX:0835->1045][LAX->SMF:1230->1400]
 >> Source:MEM Destination:STG Start_Time:0849
@@ -3553,7 +3553,7 @@ No Flight Schedule Found.
 >> Source:CHS Destination:RIC Start_Time:1243
 No Flight Schedule Found.
 >> Source:ATL Destination:ENA Start_Time:1901
-No Flight Schedule Found.
+[ATL->LAX:1920->2113][LAX->ANC:0800->1224][ANC->ENA:1410->1435]
 >> Source:MKE Destination:YYC Start_Time:1949
 No Flight Schedule Found.
 >> Source:PSG Destination:BRW Start_Time:0809
@@ -3593,9 +3593,9 @@ No Flight Schedule Found.
 >> Source:BLI Destination:MIA Start_Time:2246
 No Flight Schedule Found.
 >> Source:DFW Destination:DCA Start_Time:1602
-No Flight Schedule Found.
+[DFW->ORD:1655->1920][ORD->DCA:2105->2345]
 >> Source:OKC Destination:SDP Start_Time:0738
-No Flight Schedule Found.
+[OKC->DFW:0825->0925][DFW->ANC:1535->1915][ANC->SDP:1000->1215]
 >> Source:SAN Destination:MFR Start_Time:0609
 No Flight Schedule Found.
 >> Source:PHX Destination:HLN Start_Time:1135
@@ -3603,7 +3603,7 @@ No Flight Schedule Found.
 >> Source:SDP Destination:YKM Start_Time:1131
 No Flight Schedule Found.
 >> Source:SMF Destination:SIT Start_Time:0203
-No Flight Schedule Found.
+[SMF->LAX:0600->0735][LAX->DFW:0855->1405][DFW->ANC:1535->1915][ANC->SIT:1955->2257]
 >> Source:YAK Destination:YEG Start_Time:2301
 No Flight Schedule Found.
 >> Source:ABQ Destination:ADK Start_Time:1634
@@ -3659,7 +3659,7 @@ No Flight Schedule Found.
 >> Source:LAS Destination:AMA Start_Time:1440
 No Flight Schedule Found.
 >> Source:SCC Destination:LAP Start_Time:1437
-No Flight Schedule Found.
+[SCC->ANC:1710->1852][ANC->LAX:0045->0647][LAX->LAP:1005->1348]
 >> Source:KOA Destination:LAX Start_Time:1134
 [KOA->LAX:2055->0508]
 >> Source:MKE Destination:PSP Start_Time:1610
@@ -3691,7 +3691,7 @@ No Flight Schedule Found.
 >> Source:CLT Destination:CRW Start_Time:0318
 [CLT->ORD:0740->0855][ORD->CRW:1355->1620]
 >> Source:TPA Destination:BDL Start_Time:1829
-No Flight Schedule Found.
+[TPA->DFW:1845->2020][DFW->OKC:2110->2200][OKC->ORD:0620->0825][ORD->BDL:1015->1315]
 >> Source:HLN Destination:MSP Start_Time:0526
 [HLN->SEA:0620->0803][SEA->MSP:1035->1551]
 >> Source:CRW Destination:AUS Start_Time:0045
@@ -3703,7 +3703,7 @@ No Flight Schedule Found.
 >> Source:BIL Destination:GDL Start_Time:2356
 [BIL->SEA:0600->0720][SEA->GDL:1945->0440]
 >> Source:MLI Destination:PVR Start_Time:1809
-No Flight Schedule Found.
+[MLI->ORD:1845->1940][ORD->LAX:2140->2355][LAX->PVR:1020->1518]
 >> Source:DLG Destination:PVR Start_Time:0227
 No Flight Schedule Found.
 >> Source:DUT Destination:YYZ Start_Time:0346
@@ -3725,7 +3725,7 @@ No Flight Schedule Found.
 >> Source:FAR Destination:YYZ Start_Time:0350
 [FAR->ORD:0600->0745][ORD->YYZ:1010->1240]
 >> Source:HNL Destination:SUN Start_Time:2352
-No Flight Schedule Found.
+[HNL->LAX:0710->1545][LAX->SUN:1340->1708]
 >> Source:ROC Destination:YEG Start_Time:1158
 No Flight Schedule Found.
 >> Source:CDV Destination:DUT Start_Time:1355
@@ -3737,7 +3737,7 @@ No Flight Schedule Found.
 >> Source:MEX Destination:MCG Start_Time:1418
 No Flight Schedule Found.
 >> Source:STL Destination:SIT Start_Time:0850
-No Flight Schedule Found.
+[STL->ORD:0905->1015][ORD->ANC:1725->2100][ANC->SIT:0755->1103]
 >> Source:STL Destination:GDL Start_Time:2305
 No Flight Schedule Found.
 >> Source:HOM Destination:MIA Start_Time:1309
@@ -3869,11 +3869,11 @@ No Flight Schedule Found.
 >> Source:SLC Destination:GRK Start_Time:0145
 No Flight Schedule Found.
 >> Source:KTN Destination:CID Start_Time:0745
-No Flight Schedule Found.
+[KTN->ANC:1649->2127][ANC->ORD:2215->0715][ORD->CID:1355->1455]
 >> Source:SJD Destination:STG Start_Time:1618
 No Flight Schedule Found.
 >> Source:SMF Destination:GSO Start_Time:0815
-No Flight Schedule Found.
+[SMF->LAX:1000->1130][LAX->ATL:1255->2029][ATL->GSO:0810->0925]
 >> Source:RDU Destination:EAT Start_Time:0515
 No Flight Schedule Found.
 >> Source:CDB Destination:MKE Start_Time:1912
@@ -3911,13 +3911,13 @@ No Flight Schedule Found.
 >> Source:AVP Destination:LAN Start_Time:1047
 No Flight Schedule Found.
 >> Source:SDP Destination:PSP Start_Time:2111
-No Flight Schedule Found.
+[SDP->ANC:1245->1615][ANC->LAX:1705->2318][LAX->SMF:0755->0920][SMF->PSP:1115->1253]
 >> Source:MZT Destination:GST Start_Time:2330
 No Flight Schedule Found.
 >> Source:PUW Destination:SAT Start_Time:0209
 No Flight Schedule Found.
 >> Source:AUS Destination:PBI Start_Time:0953
-No Flight Schedule Found.
+[AUS->LAX:1240->1350][LAX->ATL:1645->0002][ATL->PBI:0820->1005]
 >> Source:CRW Destination:CHS Start_Time:2021
 No Flight Schedule Found.
 >> Source:BUF Destination:SAV Start_Time:0537
@@ -3941,7 +3941,7 @@ No Flight Schedule Found.
 >> Source:GRK Destination:GPT Start_Time:0446
 [GRK->DFW:0600->0700][DFW->GPT:0855->1025]
 >> Source:SDP Destination:KOA Start_Time:0840
-No Flight Schedule Found.
+[SDP->ANC:1245->1615][ANC->LAX:1705->2318][LAX->KOA:1359->1636]
 >> Source:VDZ Destination:BWI Start_Time:1221
 No Flight Schedule Found.
 >> Source:LAX Destination:SNA Start_Time:0037
@@ -3965,7 +3965,7 @@ No Flight Schedule Found.
 >> Source:XNA Destination:CLE Start_Time:1151
 [XNA->MSP:1830->2031][MSP->CLE:0705->1004]
 >> Source:SUN Destination:SIT Start_Time:0507
-No Flight Schedule Found.
+[SUN->LAX:1130->1302][LAX->ANC:2055->0134][ANC->SIT:0755->1103]
 >> Source:PHL Destination:YLW Start_Time:0446
 No Flight Schedule Found.
 >> Source:SDF Destination:ADQ Start_Time:0854
@@ -3981,7 +3981,7 @@ No Flight Schedule Found.
 >> Source:LAS Destination:SAV Start_Time:1015
 No Flight Schedule Found.
 >> Source:CDV Destination:RIC Start_Time:1541
-No Flight Schedule Found.
+[CDV->ANC:2005->2055][ANC->ORD:2215->0715][ORD->RIC:0950->1245]
 >> Source:ADQ Destination:BRW Start_Time:0155
 No Flight Schedule Found.
 >> Source:PHX Destination:ANI Start_Time:0713
@@ -3999,7 +3999,7 @@ No Flight Schedule Found.
 >> Source:STG Destination:ENA Start_Time:0619
 No Flight Schedule Found.
 
-Failed to find a flight schedule for 1704 out of 2000 customers
-Elapsed times: 43 (millsec) for planning, 378 (millisec) for scheduling
-Memory consumption: 4131088 bytes
-Total CPU time consumed by the thread: 658 (millsec)
+Failed to find a flight schedule for 1549 out of 2000 customers
+Elapsed times: 14 (millsec) for planning, 416 (millisec) for scheduling
+Memory consumption: 6255520 bytes
+Total CPU time consumed by the thread: 642 (millsec)
