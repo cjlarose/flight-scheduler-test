@@ -1,7 +1,7 @@
 Flight Scheduler: Additional Test Cases
 =======================================
 
-This project is a collection of test cases for the flight scheduling assignment.  Each of the provided test cases (Alaska and Hawaiian) produce strongly connected graphs.  That is, it is possible to construct a sequence of flights from any source airport to any other destination airport.  These test cases are inadequate, then, in testing the full scrope of the program that does not guarantee this convenience.
+This project is a collection of test cases for the flight scheduling assignment.  Each of the provided test cases (Alaska and Hawaiian) produce strongly connected graphs.  That is, it is possible to construct a sequence of flights from any source airport to any other destination airport.  These test cases are inadequate, then, in testing the full scope of the program that does not guarantee this convenience.
 
 The test cases in the project, Hawaiian-flights-disconnected.txt and Alaska-flights-disconnected.txt are proper subsets of Hawaiian-flights.txt and Alaska-flights.txt, respectively.  They each guarantee that the resulting graph has at least two disconnected components.  Furthermore, one airport in one component is guaranteed to be a source (having only outgoing flights), and another airport in the opposite compontent is guaranteed to be a sink (having only incoming flights).
 
@@ -20,4 +20,4 @@ If you have more testcases of any kind, please feel free to fork and pull reques
 Additional Notes
 ----------------
 
-It's clear that a test case for Hawaiian was provided that addresses impossible-to-schedule flights.  However, these cases contain airports that aren't part of the graph.  Those cases are really easy to dismiss by checking for set inclusion without ever having to traverse the graph. The customers in this project differ because each customer has a valid source and a valid destination, but you cannot be guaranteed that there exists a sequence of flights to satisfy that customer.  Said simply, the provided bogus customer test cases may not exploit the vulnerabilities in your implementation if the customer provided two valid airports, but not path exists between them.
+It's clear that a test case for Hawaiian was provided that addresses impossible-to-schedule flights.  However, these cases contain airports that aren't part of the graph.  Those cases are really easy to dismiss by checking for set inclusion without ever having to traverse the graph. The customers in this project differ because each customer has a valid source and a valid destination, but you cannot be guaranteed that there exists a sequence of flights to satisfy that customer.  Said simply, the provided bogus customer test cases may not exploit the vulnerabilities in your implementation if the customer provided two valid airports, but no path exists between them.
