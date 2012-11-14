@@ -3,7 +3,7 @@ Flight Scheduler: Additional Test Cases
 
 This project is a collection of test cases for the flight scheduling assignment.  Each of the provided test cases (Alaska and Hawaiian) produce strongly connected graphs.  That is, it is possible to construct a sequence of flights from any source airport to any other destination airport.  These test cases are inadequate, then, in testing the full scrope of the program that does not guarantee this convenience.
 
-The test cases in the project, Hawaiian-flights-disconnected.txt and Alaska-flights-disconnected.txt are proper subsets of Hawaiian-flights.txt and Alaska-flights.txt, respectively.  They each guarantee that the resulting graph has at least two disconnected components.  Furthermore, one airport in one component is guaranteed to be a transmitter (having only outgoing flights), and another airport in the opposite compontent is guaranteed to be a receiver (having only incoming flights).
+The test cases in the project, Hawaiian-flights-disconnected.txt and Alaska-flights-disconnected.txt are proper subsets of Hawaiian-flights.txt and Alaska-flights.txt, respectively.  They each guarantee that the resulting graph has at least two disconnected components.  Furthermore, one airport in one component is guaranteed to be a source (having only outgoing flights), and another airport in the opposite compontent is guaranteed to be a sink (having only incoming flights).
 
 The output files tickets01.out and tickets02.out are produced in the following way:
 
